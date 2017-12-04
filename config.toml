@@ -47,12 +47,12 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  avatar = "cropped-puzzledoldman6.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "dwinco@x.r"
+  address = ""
+  office_hours = ""
   phone = "888 888 88 88"
-  skype = "echo123"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -81,10 +81,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "37.8188158"
+  longitude = "144.9958459"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
