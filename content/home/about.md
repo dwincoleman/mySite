@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-     Intelligence",
+    "Intelligence",
     "Computation",
     "Rhetoric"
   ]
@@ -22,7 +22,7 @@ weight = 5
   year = 1989
 
 [[education.courses]]
-  course = "MTech nn Web Programming"
+  course = "MTech in Web Programming"
   institution = "Royal Melbourne Institute of Technology"
   year = 2000
 
